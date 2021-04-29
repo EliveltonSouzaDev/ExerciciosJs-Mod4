@@ -1,0 +1,17 @@
+{
+  "name": "exercicio3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exer3.js",
+  "scripts": {
+    "start": "node exer3.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
